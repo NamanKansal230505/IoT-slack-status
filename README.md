@@ -1,4 +1,3 @@
-##SLOT
 <img src="https://user-images.githubusercontent.com/64547645/155719551-bec0be5a-94f7-4e1f-a413-71d514dce7da.png" align="center">
 
 <div align='center'>
