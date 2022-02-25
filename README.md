@@ -2,9 +2,9 @@
 
 <div align='center'>
   
-<a href='https://github.com/chroline/well_app/releases'>
+<a href='https://github.com/NamanKansal230505/IoT-based-Slack-Status-Updater/releases'>
   
-<img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
+<img src='https://img.shields.io/github/v/release/NamanKansal230505/IoT-based-Slack-Status-Updater?color=%23FDD835&label=version&style=for-the-badge'>
   
 </a>
   
