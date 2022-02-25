@@ -63,11 +63,11 @@
 
 # 🧐 Project philosophy
 
-> The Well app is a mental health and mindfulness app built on top of the science of positive psychology. The Well app is more than just another meditation or journaling app; it encourages you to enhance and reflect on your day with structured, guided activities.
-> 
-> There are 5 daily tasks that the Well app asks you to complete each day: record 3 gratitudes, write a journal entry, perform 3 acts of kindness, exercise for 20 minutes, and meditate for 15 minutes.
+> This is an IoT based device which helps you to update your slack status on your fingertips.
+> I have included 5 status you just need to press it and change the slack status as written on it.
+> If you are a person who uses slack on daily basis, then you need to change your slack status frequently. That's why I made this IoT device for that
 
-**Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
+**I got inspiration from this blog(https://www.instructables.com/Slack-Status-Updater-With-ESP8266).**
 
 # 📒 Wiki
 
