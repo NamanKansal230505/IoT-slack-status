@@ -71,7 +71,7 @@
 
 Here's a brief high-level overview of the tech stack this device uses:
 
-- The code is written in C language and I have used Ardiuno Ide.
+- The code is written in C++ language and I have used Ardiuno Ide.
 - Development board I used is esp8266
 
 # ✍️ How to make one 
