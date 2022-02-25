@@ -52,7 +52,6 @@
 
 **[PROJECT PHILOSOPHY](https://github.com/NamanKansal230505/IoT-slack-status#-project-philosophy) • 
 [TECH STACK](https://https://github.com/NamanKansal230505/IoT-slack-status#-tech-stack) • 
-[How to make one](https://https://github.com/NamanKansal230505/IoT-slack-status#-how-to-make-one) • 
 [SPREAD THE WORD](https://https://github.com/NamanKansal230505/IoT-slack-status#-spread-the-word) • 
 
 </div>
@@ -74,8 +73,6 @@ Here's a brief high-level overview of the tech stack this device uses:
 
 - The code is written in C language and I have used Ardiuno Ide.
 - Development board I used is esp8266
-
-For more information on the technologies that power the Well app, check out the [Tech Stack](https://github.com/chroline/well_app/wiki/Tech-Stack) page on our wiki.
 
 # ✍️ How to make one 
 
@@ -103,4 +100,4 @@ Thanks so much for your interest in growing the reach of the project!
 
 # 💛
 
-Reminder that *you are great, you are enough, and your presence is valued.* If you are struggling with your mental health, please reach out to someone you love and consult a professional. [There are many resources for you to get help in a time of need.](https://www.nimh.nih.gov/health/find-help)
+
