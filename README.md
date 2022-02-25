@@ -39,7 +39,6 @@
   
 <br />
   
-<a href="https://www.producthunt.com/posts/well?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-well" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=322651&theme=light" alt="Well - Improve your productivity and happiness in just 21 days. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
   
 </div>
 
