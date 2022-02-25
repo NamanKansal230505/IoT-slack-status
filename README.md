@@ -28,7 +28,7 @@
   
 </a>
   
-<a href='https://projects.colegaw.in/well-app/research?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+<a href='https://www.instructables.com/Slack-Status-Updater-With-ESP8266/'>
   
 <img src='https://img.shields.io/badge/RESEARCH-blue?style=for-the-badge'>
   
