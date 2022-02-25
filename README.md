@@ -50,7 +50,7 @@
 
 <div align="center">
 
-**[PROJECT PHILOSOPHY](https://github.com/NamanKansal230505/IoT-slack-status#-project-philosophy) • 
+[PROJECT PHILOSOPHY](https://github.com/NamanKansal230505/IoT-slack-status#-project-philosophy) • 
 [TECH STACK](https://https://github.com/NamanKansal230505/IoT-slack-status#-tech-stack) • 
 [SPREAD THE WORD](https://https://github.com/NamanKansal230505/IoT-slack-status#-spread-the-word) • 
 
